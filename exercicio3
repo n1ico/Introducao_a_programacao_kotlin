@@ -1,0 +1,7 @@
+fun main(){
+  println("Monday")
+  println("Tuesday")
+  println("Wendnesday")
+  println("Thursday")
+  println("Friday")
+}
